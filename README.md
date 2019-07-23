@@ -1,6 +1,6 @@
 # Awesome-Xcode-Behaviors
 
-Quickly and easily do annoying tasks with xcode shortcuts
+😍Quickly and easily do annoying tasks with xcode shortcuts
 
 If you just press a shortcut in xcode, the pod install, carthage bootstrap --platform iOS, etc tasks will be executed.
 
@@ -41,7 +41,7 @@ If you just press a shortcut in xcode, the pod install, carthage bootstrap --pla
 10. Select the desired script.
 11. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
 
-Final screen
+🎉🎊Final screen
 <img width="912" alt="image" src="https://user-images.githubusercontent.com/13097922/61684922-f96ce700-ad55-11e9-95ea-a44b4fab1e7b.png">
 
 Repeat steps 6 to 11
