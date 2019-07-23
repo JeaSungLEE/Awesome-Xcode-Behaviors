@@ -1,5 +1,8 @@
 # Awesome-Xcode-Behaviors
 
+매번 터미널을 열고 cd로 프로젝트를 이동하고 pod install 하거나, carthage update가 귀찮으셨나요?
+이 스크립트면 1초만에 해결이 됩니다. 💯
+
 😍Xcode에서 단축키만 누르면 pod install, carthage bootstrap --platform iOS,등 귀찮은 작업들이 실행됩니다.
 
 ## Supported Scripts
