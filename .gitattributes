@@ -1,0 +1,4 @@
+*               text=auto
+*.gitattributes text
+*.md            text
+*.rb linguist-language=Swift
