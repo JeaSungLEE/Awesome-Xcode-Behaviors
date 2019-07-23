@@ -1,5 +1,5 @@
 # Awesome-Xcode-Behaviors
-[한국어](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors/blob/master/READMEKR.md)
+[한국어로 보기](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors/blob/master/READMEKR.md)
 
 😍Quickly and easily do annoying tasks with xcode shortcuts
 
