@@ -1,6 +1,7 @@
 # Awesome-Xcode-Behaviors
 
 Quickly and easily do annoying tasks with xcode shortcuts
+
 If you just press a shortcut in xcode, the pod install, carthage bootstrap --platform iOS, etc tasks will be executed.
 
 ## Supported Scripts
