@@ -49,7 +49,7 @@ Repeat steps 6 to 11
 
 ## Authors
 
-🇰🇷* **JeasungLee** - *Initial work* - [JeasungLee](https://github.com/JeaSungLEE)
+*🇰🇷 **JeasungLee** - *Initial work* - [JeasungLee](https://github.com/JeaSungLEE)
 
 ## License
 
