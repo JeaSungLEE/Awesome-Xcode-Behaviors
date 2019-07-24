@@ -45,7 +45,15 @@
 <img width="912" alt="image" src="https://user-images.githubusercontent.com/13097922/61684922-f96ce700-ad55-11e9-95ea-a44b4fab1e7b.png">
 
 원하는 스크립트들을 다 적용할때까지 6 ~ 11 번을 반복합니다
-참쉽져~ 
+
+## How to Using
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/13097922/61765158-d6563c00-ae16-11e9-94d7-6af61f501acc.png">
+
+- Xcode - behaviors 에서 선택합니다.
+
+- 단축키를 누릅니다.
+
+⭐️easy
 ## Authors
 
 * **JeasungLee** - *Initial work* - [JeasungLee](https://github.com/JeaSungLEE)
