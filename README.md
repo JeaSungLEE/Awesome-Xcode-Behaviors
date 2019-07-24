@@ -47,6 +47,13 @@ If you just press a shortcut in xcode, the pod install, carthage bootstrap --pla
 
 Repeat steps 6 to 11
 
+## How to Using
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/13097922/61765158-d6563c00-ae16-11e9-94d7-6af61f501acc.png">
+- Choose directly from Xcode - behaviors
+- Press the shortcut key.
+
+⭐️easy
+
 ## Authors
 
 *🇰🇷 **JeasungLee** - *Initial work* - [JeasungLee](https://github.com/JeaSungLEE)
