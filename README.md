@@ -32,22 +32,23 @@ If you just press a shortcut in xcode, the pod install, carthage bootstrap --pla
 ## Getting Started
 
 1. Clone or download the project.
-2. Open terminal -> Go to project folder,
+2. Open Xcode.
+3. Open the Xcode preferences. Shortcuts: cmd,
+4. Select the behaviors tab.
+5. Press the + button on the bottom left.
+6. Create a name for the behavior. (ex. open terminal)
+7. Activate the Run check box.
+8. Click choose script.
+9. Select the desired script.
+10. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
 
-**run script**
-```bash 
-chmod -R +x "Pods/" "Gem/" "Open Application/"
-```
-3. Open Xcode.
-4. Open the Xcode preferences. Shortcuts: cmd,
-5. Select the behaviors tab.
-6. Press the + button on the bottom left.
-7. Create a name for the behavior. (ex. open terminal)
-8. Activate the Run check box.
-9. Click choose script.
-10. Select the desired script.
-11. Right-click the name of the behavior you just created to specify the shortcut. (ex. cmd + shift + 5)
-
+### if you can't select script. try this
+  1. Open terminal -> Go to project folder
+  
+  2. run command
+  ```bash 
+  chmod -R +x "Pods/" "Gem/" "Open Application/"
+  ```
 🎉🎊Final screen
 <img width="912" alt="image" src="https://user-images.githubusercontent.com/13097922/61684922-f96ce700-ad55-11e9-95ea-a44b4fab1e7b.png">
 
