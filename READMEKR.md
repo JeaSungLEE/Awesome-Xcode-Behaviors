@@ -31,22 +31,23 @@
 ## Getting Started
 
 1. 프로젝트를 클론 또는 다운로드 받습니다.
-2. 터미널에서 해당 프로젝트의 디렉토리로 이동하여 스크립트를 실행합니다 
+2. Xcode를 엽니다.
+3. Xcode preferences 엽니다. 단축키: cmd   ,
+4. behaviors탭을 선택합니다.
+5. 좌측 하단의 + 버튼을 누릅니다.
+6. behavior의 이름을 작성합니다. (ex. open terminal)
+7. Run 체크박스를 활성화 합니다.
+8. choose script를 누릅니다.
+9. 원하는 script를 선택합니다.
+10. 방금 만든 behavior의 이름 오른쪽 클릭하여 단축키를 지정합니다. (ex. cmd + shift + 5)
 
-**스크립트 실행** 
-```bash
-chmod -R +x "Pods/" "Gem/" "Open Application/"
-```
-3. Xcode를 엽니다.
-4. Xcode preferences 엽니다. 단축키: cmd   ,
-5. behaviors탭을 선택합니다.
-6. 좌측 하단의 + 버튼을 누릅니다.
-7. behavior의 이름을 작성합니다. (ex. open terminal)
-8. Run 체크박스를 활성화 합니다.
-9. choose script를 누릅니다.
-10. 원하는 script를 선택합니다.
-11. 방금 만든 behavior의 이름 오른쪽 클릭하여 단축키를 지정합니다. (ex. cmd + shift + 5)
-
+### 만약 스크립트를 선택할수 없다면
+  1. terminal을 열고 프로젝트 폴더로 이동합니다.
+  
+  2. 아래의 커맨드를 실행합니다.
+  ```bash 
+  chmod -R +x "Pods/" "Gem/" "Open Application/"
+  ```
 🎉🎊최종화면
 <img width="912" alt="image" src="https://user-images.githubusercontent.com/13097922/61684922-f96ce700-ad55-11e9-95ea-a44b4fab1e7b.png">
 
