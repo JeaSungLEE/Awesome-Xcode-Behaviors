@@ -32,6 +32,12 @@ If you just press a shortcut in xcode, the pod install, carthage bootstrap --pla
 ## Getting Started
 
 1. Clone or download the project.
+2. Open terminal -> Go to project folder,
+
+**run script**
+```bash 
+chmod -R +x "Pods/" "Gem/" "Open Application/"
+```
 3. Open Xcode.
 4. Open the Xcode preferences. Shortcuts: cmd,
 5. Select the behaviors tab.
