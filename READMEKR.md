@@ -31,6 +31,12 @@
 ## Getting Started
 
 1. 프로젝트를 클론 또는 다운로드 받습니다.
+2. 터미널에서 해당 프로젝트의 디렉토리로 이동하여 스크립트를 실행합니다 
+
+**스크립트 실행** 
+```bash
+chmod -R +x "Pods/" "Gem/" "Open Application/"
+```
 3. Xcode를 엽니다.
 4. Xcode preferences 엽니다. 단축키: cmd   ,
 5. behaviors탭을 선택합니다.
