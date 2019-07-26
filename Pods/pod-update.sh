@@ -2,6 +2,6 @@
 osascript <<END
 tell application "Terminal"
 activate
-do script "cd `pwd`;pod updage"
+do script "cd `pwd`;pod update"
 end tell
 END
